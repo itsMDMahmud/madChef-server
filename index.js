@@ -17,6 +17,14 @@ app.get('/chefdata', (req, res) => {
 })
 
 
+app.get('/chefdata/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+    const selectedChef = chefdata.find(n => n.id ==id);
+    res.send(selectedChef)
+})
+
+
 app.listen(port, () => {
     console.log(`Chefs are cooking on port: ${port}`);
 })
