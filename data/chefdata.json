@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Chef Gordon Ramsay",
+    "experience_years": 8,
+    "likes": 350,
+    "details": "Chef Jane has a passion for creating healthy and delicious dishes.",
+    "img": "https://i.ibb.co/zGD8nJy/gordonramsay.png",
+    "recipe1": {
+      "recipe_name": "Beef Wellington",
+      "rating": 4.8,
+      "image": "https://i.ibb.co/QMZk0Jz/beef-wellington.png",
+      "ingredients": "2 lb beef tenderloin, 1 lb puff pastry, 1/2 lb mushrooms, 1/4 cup Dijon mustard, 2 egg yolks, Salt and pepper, Olive oil",
+      "cooking_method": "To prepare the dish, start by searing the beef fillet in a hot pan until browned on all sides. Then, remove it from the heat and let it cool. In the same pan, sauté the mushrooms and onions until soft, then add the liver pâté and mustard and stir until combined. Roll out the puff pastry and place the beef fillet on top. Spread the mushroom mixture over the beef and wrap the puff pastry around it, tucking in the ends. Brush the pastry with egg yolks and bake in a preheated oven at 200°C for 30-40 minutes, or until the pastry is golden brown."
+    },
+
+    "recipe2": {
+      "recipe_name": "Sticky Toffee Pudding",
+      "rating": 4.7,
+      "image": "https://i.ibb.co/4NwKYpv/sticky-toffee-pudding.png",
+      "ingredients": "225g pitted dates, 175ml boiling water, 1 tsp bicarbonate of soda, 75g unsalted butter, 175g soft light brown sugar, 2 large eggs, 175g self-raising flour, 1 tsp vanilla extract, 300ml double cream, 50g caster sugar",
+      "cooking_method": "To prepare the dish, start by preheating your oven to 180°C. Place the dates in a bowl and pour over the boiling water, then add the bicarbonate of soda and let it sit for 10 minutes. In a separate bowl, cream together the butter and brown sugar, then add the eggs one at a time, mixing well between each addition. Sift in the flour and mix until well combined, then fold in the date mixture and vanilla extract. Pour the batter into a greased baking dish and bake in the oven for 35-40 minutes, or until a skewer comes out clean. For the toffee sauce, heat the cream and caster sugar in a saucepan until the sugar has dissolved and the mixture is smooth. Serve the pudding with the warm toffee sauce poured over the top."
+    },
+    "recipe3": {
+      "recipe_name": "Pan-Seared Scallops",
+      "rating": 4.9,
+      "image": "https://i.ibb.co/gJ3Y3SG/pan-seared-scallops-fp.png",
+      "ingredients": "12 large sea scallops, 2 tbsp olive oil, 2 tbsp unsalted butter, 1 garlic clove, minced, Salt and pepper to taste, 1 lemon, cut into wedges",
+      "cooking_method": "To prepare the dish, start by patting the scallops dry with paper towels and seasoning them with salt and pepper. Heat the olive oil in a large skillet over high heat until hot, then add the scallops and sear for 2-3 minutes on each side until golden brown. Add the butter and garlic to the pan and stir until the butter has melted and the garlic is fragrant. Spoon the butter mixture over the scallops and serve with lemon wedges on the side."
+    }
+  }
+]
